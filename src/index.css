@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.guideline {
+    border: 1px solid #b9b9b9;
+    padding: 1rem;
+}
